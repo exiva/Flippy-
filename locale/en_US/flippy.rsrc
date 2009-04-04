@@ -1,0 +1,10 @@
+﻿package "net.exiva.flippy"
+
+interface "{source}net/exiva/flippy/Resources.java"
+events "{source}net/exiva/flippy/Commands.java"
+
+string ID_APP_NAME "Flippy"
+string ID_APP_FLAGS "LC"
+string ID_APP_CLASS "net.exiva.flippy.flippy"
+string ID_VERSION "v@APP_VERSION_MAJOR@.@APP_VERSION_MINOR@/@APP_VERSION_BUILD@"
+string ID_LOCALE "en_US"
